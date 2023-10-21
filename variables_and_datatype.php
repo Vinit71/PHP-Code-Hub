@@ -2,7 +2,7 @@
 $name = "Vinit";
 $age = 20;
 
-echo " Name: ".$name. "<br> Age: ". $age;
+echo " Name: $name <br> Age: $age";
 /* --Variables--
  * In PHP, variables are denoted by a dollar sign ($) followed by the variable name. 
  
