@@ -3,7 +3,7 @@ $age = 20;
 
 $Vote = ($age >= 18) ? "You can Vote" : "You cannot Vote"; // it's that simple 
 
-echo $canVote;
+echo $Vote;
 
 /*
  * The ternary operator in PHP is a shorthand method for writing simple if-else statements.
