@@ -9,7 +9,5 @@ echo "Vinit got: ", $stmarks['Vinit'], " marks"; //printing
  * In an associative array, each key must be unique. If you attempt to insert a duplicate key, 
    it typically results in updating the existing key-value pair with the new value.
 
- * Associative arrays can store data of different types, eg: integers, strings, objects, or even other arrays.
-
-*/
+ * Associative arrays can store data of different types, eg: integers, strings, objects, or even other arrays. */
 ?>
